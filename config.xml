@@ -77,7 +77,8 @@
         <splash height="960" src="resources/ios/splash/Default@2x~iphone.png" width="640" />
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
     </platform>
-    <plugin name="com.transistorsoft.cordova.background-geolocation" spec="~1.6.2" />
+    <plugin name="com.transistorsoft.cordova.background-geolocation" spec="https://github.com/transistorsoft/cordova-background-geolocation-lt.git
+" />
     <plugin name="cordova-plugin-device" spec="~1.1.2" />
     <plugin name="cordova-plugin-console" spec="~1.0.3" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.2" />
